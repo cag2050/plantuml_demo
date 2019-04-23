@@ -1,0 +1,5 @@
+.idea/
+.DS_Store
+node_modules
+activity_diagram/
+sequence_diagram/
